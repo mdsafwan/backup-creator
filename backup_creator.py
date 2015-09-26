@@ -9,7 +9,7 @@ import os
 import time
 import extract_folder
 
-print "\n****BACKUP CREATER 1.0****"
+print "\n****BACKUP CREATOR 1.0****"
 
 source_dir = raw_input("\nEnter the source directory path:\n")
 target_dir = raw_input("\nEnter the target directory path:\n")
